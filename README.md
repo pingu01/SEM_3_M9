@@ -30,3 +30,9 @@ Exemplo de código com sucesso:
 Estrutura do teste unitário:
 
 ![Estrutura do teste unitário](./estrutura-teste.png)
+
+# Conclusão
+
+Com esse exercício, é possível dizer que os testes unitários, e o desenvolvimento orientado a testes são de extrema importância para garantir a qualidade do código.
+
+
