@@ -33,6 +33,6 @@ Estrutura do teste unitário:
 
 # Conclusão
 
-Com esse exercício, é possível dizer que os testes unitários, e o desenvolvimento orientado a testes são de extrema importância para garantir a qualidade do código.
+Com esse exercício, é possível dizer que os testes unitários, e o desenvolvimento orientado a testes são de extrema importância para garantir a qualidade do código. O código pode ser visto por completo na pasta 'src'.
 
 
